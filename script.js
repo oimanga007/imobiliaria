@@ -172,7 +172,7 @@ const preco6 = document.querySelector("#preco6");
 const preco7 = document.querySelector("#preco7");
 const preco8 = document.querySelector("#preco8");
 const preco9 = document.querySelector("#preco9");
-const preco10 = document.querySelector("#preco10");
+
 
 preco1.innerHTML = precos[0];
 preco2.innerHTML = precos[1];
@@ -183,7 +183,7 @@ preco6.innerHTML = precos[5];
 preco7.innerHTML = precos[6];
 preco8.innerHTML = precos[7];
 preco9.innerHTML = precos[8];
-preco10.innerHTML = precos[4];
+
 
 function ver_detalhes(botao) {
   document.querySelector(".detalhes_dos_imoveis").classList.add("detalhe");
