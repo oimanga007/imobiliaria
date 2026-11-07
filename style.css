@@ -720,6 +720,9 @@ footer > p {
     max-width: 550px;
     width: calc(100% - 60px);
   }
+  .espaco{
+    margin-top: -10px;
+  }
 
 }
 
@@ -1054,5 +1057,8 @@ footer > p {
     padding: 14px 10px;
     text-align: center;
     font-size: 13px;
+  }
+  .espaco{
+    margin-top: -10px;
   }
 }
