@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /detalhes_dos_imoveis
+
+Sitemap: https://netlify.app
