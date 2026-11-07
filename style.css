@@ -418,11 +418,13 @@ nav a:hover {
 
 .descricao > h1 {
   margin-bottom: 12px;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 800;
   letter-spacing: -2px;
 }
-
+.espaco{
+  margin-top: 60px;
+}
 .descricao > h2 {
   color: var(--cor-texto);
   font-size: 21px;
