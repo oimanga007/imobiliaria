@@ -53,7 +53,7 @@ const unidades = [
     unidade: "Unidade 04",
     id: "Unidade 04-venda",
     aluguel: "À VENDA",
-    preco: "R$ 300,000",
+    preco: "R$ 350,000",
     foto: "img/imovel 4 venda/4 v (1).jpeg",
     foto2: "img/imovel 4 venda/4 v (5).jpeg",
     foto3: "img/imovel 4 venda/4 v (4).jpeg",
@@ -62,7 +62,7 @@ const unidades = [
     quantidade: 5,
     informacao:
       "Metros quadrados 52m, 2 dormitórios, 1 cozinha, 1 banheiro e lavanderia", // Corrigido: dormitrios -> dormitórios, lavandeiria -> lavanderia
-    total: "R$300,000",
+    total: "R$350,000",
   },
   {
     unidade: "Unidade 05",
@@ -152,7 +152,7 @@ const precos = [
   "R$380,000",
   "R$380,000",
   "R$380,000",
-  "R$300,000",
+  "R$350,000",
   "R$400,000",
   "R$2,700",
   "R$2,200",
